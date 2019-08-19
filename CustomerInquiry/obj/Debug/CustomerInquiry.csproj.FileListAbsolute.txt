@@ -19,3 +19,7 @@ C:\Users\A\Documents\Visual Studio 2013\Projects\CustomerInquiry\CustomerInquiry
 C:\Users\A\Documents\Visual Studio 2013\Projects\CustomerInquiry\CustomerInquiry\obj\Debug\CustomerInquiry.csproj.GenerateResource.Cache
 C:\Users\A\Documents\Visual Studio 2013\Projects\CustomerInquiry\CustomerInquiry\obj\Debug\CustomerInquiry.Migrations.Initial.resources
 C:\Users\A\Documents\Visual Studio 2013\Projects\CustomerInquiry\CustomerInquiry\obj\Debug\CustomerInquiry.csprojResolveAssemblyReference.cache
+C:\Users\A\Downloads\CustomerAPI\CustomerAPI\CustomerInquiry\obj\Debug\CustomerInquiry.csprojResolveAssemblyReference.cache
+C:\Users\A\Downloads\CustomerAPI\CustomerAPI\CustomerInquiry\obj\Debug\CustomerInquiry.Migrations.InitialCreate.resources
+C:\Users\A\Downloads\CustomerAPI\CustomerAPI\CustomerInquiry\obj\Debug\CustomerInquiry.Migrations.Initial.resources
+C:\Users\A\Downloads\CustomerAPI\CustomerAPI\CustomerInquiry\obj\Debug\CustomerInquiry.csproj.GenerateResource.Cache
